@@ -1,0 +1,1 @@
+This is a full stack Java Spring boot based application, with a React frontend. It's a Todo application to store user todos of person who logs in. The database used was a localhost SQL database, which was hosted in Docker container. 
